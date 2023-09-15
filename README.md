@@ -1,12 +1,12 @@
-### Bem Vindos!
-#### Me chamo Gabriela, sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e na busca por aprender cada vez mais.
+### Welcome!
+#### My name is Gabriela, I'm a Systems Analysis and Development student, passionate about technology and looking to learn more and more.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-iaccino-88b5731bb/)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gawbb&show_icons=true&theme=radical)
 
-### Tencologias que mais estou usando
+### Technologies I'm using most
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gawbb&layout=compact)
 <div style ="display: inline_block"></br>

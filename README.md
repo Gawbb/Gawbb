@@ -1,5 +1,5 @@
-### Saudações a todos !
-#### Me chamo Gabriela, sou estudante de Análise e Desenvolvimento de sistemas, apaixonada por tecnologia e na busca por aprender cada vez mais.
+### Bem-Vindos!
+#### Me chamo Gabriela, sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e na busca por aprender cada vez mais.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-iaccino-88b5731bb/)
 

@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gawbb&show_icons=true&theme=radical)
 
-### Technologies I'm using most
+### Technologies I'm using most:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gawbb&layout=compact)
 <div style ="display: inline_block"></br>
